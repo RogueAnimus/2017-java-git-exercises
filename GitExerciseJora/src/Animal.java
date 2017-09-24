@@ -11,7 +11,7 @@ public abstract class Animal {
         see the difference between staged and unstaged changes
      */
 
-    /* Adding a third comment, for completing exercise 2.a.9 */
+    /* Adding a dummy comment for causing a conflict through IntelliJ */
 
     /** Developer-defined attributes, to load in subclasses **/
     private String name;
