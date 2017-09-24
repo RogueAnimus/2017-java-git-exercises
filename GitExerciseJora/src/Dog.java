@@ -2,6 +2,9 @@ public class Dog extends Animal {
 
 
 
+    /* Added one comment to see if IntelliJ shows me a difference */
+
+
     public String petOwnerID;
 
 
