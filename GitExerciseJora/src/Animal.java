@@ -3,6 +3,14 @@ import java.util.Date;
 public abstract class Animal {
 
 
+
+    /* Added this comment for exercise 13 of the git
+        introduction exercises to see what git does with it. */
+
+    /* Second comment added after having used git diff --cached to
+        see the difference between staged and unstaged changes
+     */
+
     /** Developer-defined attributes, to load in subclasses **/
     private String name;
     private String diet;
