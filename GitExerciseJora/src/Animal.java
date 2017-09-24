@@ -11,6 +11,8 @@ public abstract class Animal {
         see the difference between staged and unstaged changes
      */
 
+    /* Adding dummy comment for causing a conflict later */
+
     /** Developer-defined attributes, to load in subclasses **/
     private String name;
     private String diet;
